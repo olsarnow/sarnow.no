@@ -8,7 +8,7 @@
 sarnow.no
 </div>
 
-div class=indexsmall>
+<div class=indexsmall>
 bergen,hordaland
 </div>
 
