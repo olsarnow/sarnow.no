@@ -4,7 +4,7 @@ echo "<html>
  <head>
  
    
-  <title>sarnow.no/title>
+  <title>sarnow.no</title>
   
   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
   <link rel=\"stylesheet\" href=\"osa.css\">
