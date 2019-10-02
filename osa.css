@@ -11,6 +11,7 @@ html {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+	font-size: calc(1em + 1vw)
 }
 
 div.index {
@@ -27,7 +28,7 @@ div.index {
 
 div.indexbig {
     text-align: center;
-    font-size: 23.5vw;
+    /*font-size: 23.5vw;*/
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
 	font-family: 'Poppins', sans-serif;
@@ -41,7 +42,7 @@ div.indexbig {
 
 div.indexsmall {
     text-align: center;
-    font-size: 20.5vh;
+    /*font-size: 20.5vh;*/
     /*font-family: 'Bowlby One SC', cursive;*/
 	font-family: 'Poppins', sans-serif;
     height: 20%;
