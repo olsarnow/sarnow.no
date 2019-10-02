@@ -9,7 +9,7 @@ sarnow.no
 </div>
 
 <div class=indexsmall>
-bergen,hordaland
+bergen, hordaland
 </div>
 
 </div>
