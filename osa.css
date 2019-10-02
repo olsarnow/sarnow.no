@@ -29,6 +29,7 @@ div.index {
 div.indexbig {
     text-align: center;
     /*font-size: 23.5vw;*/
+	font-size: 3vw;
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
 	font-family: 'Poppins', sans-serif;
@@ -43,6 +44,7 @@ div.indexbig {
 div.indexsmall {
     text-align: center;
     /*font-size: 20.5vh;*/
+	font-size: 3vw;
     /*font-family: 'Bowlby One SC', cursive;*/
 	font-family: 'Poppins', sans-serif;
     height: 20%;
