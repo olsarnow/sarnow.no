@@ -23,7 +23,7 @@ div.index {
 
 
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Alegreya+Sans+SC&display=swap');
 
 
 div.indexbig {
@@ -31,7 +31,7 @@ div.indexbig {
     font-size: 25.5vh;
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
-	font-family: 'Aclonica', sans-serif;
+	font-family: 'Alegreya Sans SC', sans-serif;
     height: 60%;
     margin-top: 20px;
     margin-bottom: 20px;
