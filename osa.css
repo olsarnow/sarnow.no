@@ -1,41 +1,48 @@
 body {
     height: 100%;
     width: 100%;
-    margin:0;
-    padding:0;
-     overflow-x:hidden;
- }
- html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+html {
     max-width: 100%;
-    margin:0;
-    padding:0;
-     overflow-x:hidden;
- }
- 
- div.index {
-  background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+div.index {
+    background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
     background-size: cover;
     z-index: 10;
     height: 100%;
     width: 100%;
- }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
 
 div.indexbig {
- font-size: 4vw;
- height:60%;
- margin-top: 20px;
- margin-bottom: 20px;
- margin-left: 0px;
- margin-right: 0px;
- 
+    text-align: center;
+    font-size: 25.5vw;
+    font-family: 'Bowlby One SC', cursive;
+    height: 60%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: white;
 }
 
 div.indexsmall {
- font-size: 4vw;
- height:20%;
- margin-top: 20px;
- margin-bottom: 10px;
- margin-left: 20px;
- margin-right: 20px;
+    text-align: center;
+    font-size: 20.5vh;
+    font-family: 'Bowlby One SC', cursive;
+    height: 20%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
 }
-

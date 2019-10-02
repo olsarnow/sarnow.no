@@ -1,19 +1,19 @@
 <?php include('header.php'); ?>
 
-<body>
+ <body>
       
-<div class=index>
+  <div class=index>
   
-<div class=indexbig>
-sarnow.no
-</div>
+   <div class=indexbig>
+   sarnow.no
+   </div>
 
-<div class=indexsmall>
-bergen, hordaland
-</div>
+   <div class=indexsmall>
+   bergen, hordaland
+   </div>
 
-</div>
+  </div>
 
-</body>
+ </body>
 </html>
     
