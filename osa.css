@@ -22,16 +22,17 @@ div.index {
     width: 100%;
 }
 
-/*@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');*/
-@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Aclonica&display=swap')
+
 
 div.indexbig {
     text-align: center;
-    /*font-size: 23.5vw;*/
+    font-size: 23.5vw;
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Aclonica', sans-serif;
     height: 60%;
     margin-top: 20px;
     margin-bottom: 20px;
