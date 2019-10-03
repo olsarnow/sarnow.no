@@ -52,3 +52,9 @@ div.indexsmall {
     margin-right: 20px;
     color: white;
 }
+
+img.redir {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
