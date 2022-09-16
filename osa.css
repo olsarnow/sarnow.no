@@ -28,16 +28,16 @@ div.index {
 
 
 /*@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa&display=swap');
 
 
 div.indexbig {
     text-align: center;
-    font-size: 25.5vh;
+    font-size: 40px;
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
     font-family: 'Lexend Exa', sans-serif;
-    height: 60%;
+    font-weight: 100;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 0px;
