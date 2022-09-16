@@ -29,6 +29,7 @@ div.index {
 
 /*@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');*/
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300&family=Noto+Sans+Runic&display=swap');
 
 div.indexbig {
     text-align: center;
@@ -37,7 +38,7 @@ div.indexbig {
     margin-left: 0px;
     margin-right: 0px;
     color: white;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Noto Sans Runic', sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 38px;
