@@ -54,9 +54,10 @@ div.indexsmall {
 }
 
 table {
-	    display: block;
+    display: block;
     overflow-x: auto;
     white-space: nowrap;
+    height: 50px;
 }
 
 
