@@ -25,6 +25,18 @@ echo "
 	<td>
 	<img class=footer src=./footerpics/s-20200828_173329978_iOS.jpg>
 	</td>
+	<td>
+	<img class=footer src=./footerpics/s-20201007_142242772_iOS.jpg>
+	</td>
+	<td>
+	<img class=footer src=./footerpics/s-20201205_112009656_iOS.jpg>
+	</td>
+	<td>
+	<img class=footer src=./footerpics/s-20210203_122902265_iOS.jpg>
+	</td>
+	<td>
+	<img class=footer src=./footerpics/s-20210205_163613633_iOS.jpg>
+	</td>
 </tr>
 
 </table>
