@@ -5,7 +5,7 @@ echo "
 
 <tr>
 	<td>
-	<img src=./footerpics/s-20191231_094557448_iOS.jpg>
+	<img class=footer src=./footerpics/s-20191231_094557448_iOS.jpg>
 	</td>
 </tr>
 
