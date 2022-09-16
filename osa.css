@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@300&display=swap');
 
 img.redir {
   height: auto;
@@ -37,7 +37,7 @@ div.indexbig {
     margin-left: 0px;
     margin-right: 0px;
     color: white;
-    font-family: 'Lexend Exa', sans-serif;
+    font-family: 'Lexend Mega', sans-serif;
 }
 
 div.indexsmall {
@@ -48,6 +48,6 @@ div.indexsmall {
     margin-left: 20px;
     margin-right: 20px;
     color: white;
-    font-family: 'Lexend Exa', sans-serif;
+    font-family: 'Lexend Mega', sans-serif;
 }
 
