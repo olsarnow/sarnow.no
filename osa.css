@@ -28,7 +28,7 @@ div.index {
 
 
 /*@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');*/
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@300&display=swap');
 
 
 div.indexbig {
@@ -36,7 +36,7 @@ div.indexbig {
     font-size: 25.5vh;
     /*font-family: 'Bowlby One SC', cursive;*/
     /*font-family: 'Mansalva', cursive;*/
-	font-family: 'Alegreya Sans SC';
+    font-family: 'Lexend Exa', sans-serif;
     height: 60%;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -49,25 +49,12 @@ div.indexsmall {
     text-align: center;
     font-size: 20.5vh;
     /*font-family: 'Bowlby One SC', cursive;*/
-	font-family: 'Alegreya Sans SC';
+    font-family: 'Lexend Exa', sans-serif;
     height: 20%;
     margin-top: 20px;
     margin-bottom: 10px;
     margin-left: 20px;
     margin-right: 20px;
     color: white;
-}
-
-div.indexgeld {
-    text-align: center;
-    font-size: 5vh;
-    font-family: 'Open Sans', sans-serif;
-    height: 20%;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    margin-right: 20px;
-    color: #000000;
-    background: #dddddd;
 }
 
