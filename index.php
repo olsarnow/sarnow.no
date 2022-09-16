@@ -9,7 +9,7 @@
    </div>
 
    <div class=indexsmall>
-   bergen, hordaland
+   bergen//vestland//norge 
    </div>
 
   </div>
