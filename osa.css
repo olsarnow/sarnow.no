@@ -38,7 +38,7 @@ div.indexbig {
     margin-right: 0px;
     color: white;
     font-family: 'Lexend Mega', sans-serif;
-    font-size:200px;
+    font-size:150px;
 }
 
 div.indexsmall {
@@ -50,5 +50,6 @@ div.indexsmall {
     margin-right: 20px;
     color: white;
     font-family: 'Lexend Mega', sans-serif;
+    font-size:50px;
 }
 
