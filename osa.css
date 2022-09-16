@@ -54,13 +54,14 @@ div.indexsmall {
 }
 
 table {
-  max-height: 150px;
+    width: 100%;
 }
+
 
 
 img.footer
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  object-fit: cover;
+  display: block;
 }
