@@ -54,12 +54,9 @@ div.indexsmall {
 }
 
 table {
-  width: 100%;
-}
-
-tr {
   height: 150px;
 }
+
 
 img.footer
   border: 1px solid #ddd;
