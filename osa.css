@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300&family=Noto+Sans+Runic&display=swap');
+
 img.redir {
   height: auto;
   width: 100%;
@@ -27,9 +30,6 @@ div.index {
 }
 
 
-/*@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');*/
-@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Exa:wght@100;300&family=Noto+Sans+Runic&display=swap');
 
 div.indexbig {
     text-align: center;
