@@ -53,3 +53,10 @@ div.indexsmall {
     font-size:50px;
 }
 
+table {
+  width: 100%;
+}
+
+tr {
+  height: 70px;
+}
