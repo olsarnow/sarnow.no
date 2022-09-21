@@ -24,7 +24,7 @@ MIXPANEL_CUSTOM_LIB_URL:\"file:\"===f.location.protocol&&\"//cdn.mxpnl.com/libs/
 // Enabling the debug mode flag is useful during implementation,
 // but it's recommended you remove it for production
 mixpanel.init('74abfe9b4bb0fc8032fb9b4a6c5ac420', {debug: false}); 
-mixpanel.track('Sign up');
+mixpanel.track('site request');
 </script>
 
 
