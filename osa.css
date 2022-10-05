@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@300&display=swap');
 
-/* desktop  version */
-
-
-@media (min-width: 801px) {
-
 img.redir {
   height: auto;
   width: 100%;
@@ -33,6 +28,26 @@ div.index {
     width: 100%;
 }
 
+
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+
+img.footer {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  display: block;
+  width: 100%;
+}
+/* desktop  version */
+
+@media (min-width: 801px) {
+
+
 div.indexbig {
     text-align: center;
     margin-top: 20px;
@@ -54,21 +69,6 @@ div.indexsmall {
     color: white;
     font-family: 'Lexend Mega', sans-serif;
     font-size:50px;
-}
-
-table {
-    display: block;
-    overflow-x: auto;
-    white-space: nowrap;
-}
-
-
-img.footer {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  display: block;
-  width: 100%;
 }
 
 }
