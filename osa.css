@@ -3,7 +3,7 @@
 /* desktop  version */
 
 
-@media (min-width: 481px) {
+@media (min-width: 801px) {
 
 img.redir {
   height: auto;
@@ -75,7 +75,7 @@ img.footer {
 
 /* mobile version */
 
-@media (max-width: 480px) {
+@media (max-width: 800px) {
 
 div.indexbig {
     text-align: center;
