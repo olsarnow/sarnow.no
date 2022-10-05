@@ -35,7 +35,7 @@ img.footer {
 }
 /* desktop  version */
 
-@media (min-width: 801px) {
+@media (min-width: 1025px) {
 
 div.index {
     background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
@@ -70,10 +70,10 @@ div.indexsmall {
 
 }
 
-@media (min-width: 481px) and (max-width: 800px) {
+@media (min-width: 481px) and (max-width: 1024px) {
 
 div.index {
-    background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
+    background: url("backgrounds/smallbg01.jpg") no-repeat center center fixed;
     background-size: cover;
     z-index: 10;
     height: 70%;
