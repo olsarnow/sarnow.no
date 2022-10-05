@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Mega:wght@300&display=swap');
 
+/* desktop  version */
+
+
+@media (min-width: 481px) {
+
 img.redir {
   height: auto;
   width: 100%;
@@ -27,8 +32,6 @@ div.index {
     height: 70%;
     width: 100%;
 }
-
-
 
 div.indexbig {
     text-align: center;
@@ -66,4 +69,35 @@ img.footer {
   padding: 5px;
   display: block;
   width: 100%;
+}
+
+}
+
+/* mobile version */
+
+@media (max-width: 480px) {
+
+div.indexbig {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: white;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size:10px;
+}
+
+div.indexsmall {
+    text-align: center;
+    height: 20%;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size:5px;
+}
+
 }
