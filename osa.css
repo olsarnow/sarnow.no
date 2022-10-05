@@ -39,7 +39,7 @@ img.footer {
 }
 /* desktop  version */
 
-@media (min-width: 801px) {
+@media (min-width: 481px) {
 
 div.index {
     background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
@@ -76,7 +76,7 @@ div.indexsmall {
 
 /* mobile version */
 
-@media (max-width: 800px) {
+@media (max-width: 480px) {
 
 div.index {
     background: url("backgrounds/smallbg01.jpg") no-repeat center center fixed;
