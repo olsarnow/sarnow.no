@@ -20,13 +20,7 @@ html {
     overflow-x: hidden;
 }
 
-div.index {
-    background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
-    background-size: cover;
-    z-index: 10;
-    height: 70%;
-    width: 100%;
-}
+
 
 
 table {
@@ -47,6 +41,13 @@ img.footer {
 
 @media (min-width: 801px) {
 
+div.index {
+    background: url("backgrounds/bg01.jpg") no-repeat center center fixed;
+    background-size: cover;
+    z-index: 10;
+    height: 70%;
+    width: 100%;
+}
 
 div.indexbig {
     text-align: center;
@@ -77,6 +78,13 @@ div.indexsmall {
 
 @media (max-width: 800px) {
 
+div.index {
+    background: url("backgrounds/smallbg01.jpg") no-repeat center center fixed;
+    background-size: cover;
+    z-index: 10;
+    height: 70%;
+    width: 100%;
+}
 div.indexbig {
     text-align: center;
     margin-top: 50px;
