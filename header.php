@@ -8,6 +8,8 @@ echo "<html>
 
 <meta charset=\"UTF-8\">
 
+<link rel="canonical" href="https://sarnow.no/" />
+
 
 <link rel=\“icon\” href=favicon.ico type=\“image/x-icon\”>
 <link rel=\“shortcut icon\” href=favicon.ico type=\“image/x-icon\”>
